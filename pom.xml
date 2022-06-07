@@ -9,11 +9,11 @@
 		<version>2.3.2.RELEASE</version>
 		<relativePath /> <!-- lookup parent from repository -->
 	</parent>
-	<groupId>com.bezkoder</groupId>
-	<artifactId>spring-boot-upload-files-database</artifactId>
+	<groupId>com.anoop</groupId>
+	<artifactId>userservice</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>spring-boot-upload-files-database</name>
-	<description>Spring Boot Upload Files/Images into Database</description>
+	<name>userservice</name>
+	<description>Spring Boot Upload Files</description>
 
 	<properties>
 		<java.version>1.8</java.version>

@@ -59,14 +59,14 @@
 	</build>
 	<repositories>
         <repository>
-            <id>myMavenRepo.read</id>
+            <id>myreopo.read</id>
             <url>https://mymavenrepo.com/repo/4FfpayYGHNki8Mv6Fyy1/</url>
         </repository>
     </repositories>
 
     <distributionManagement>
         <repository>
-            <id>myMavenRepo.write</id>
+            <id>myreopo.write</id>
             <url>https://mymavenrepo.com/repo/EXG85uVM5PGRHuQdqAP4/</url>
         </repository>
     </distributionManagement>

@@ -13,7 +13,7 @@
 	<artifactId>userservice</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>userservice</name>
-	<description>Spring Boot Upload</description>
+	<description>Spring Boot Upload files</description>
 
 	<properties>
 		<java.version>1.8</java.version>
